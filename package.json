@@ -1,0 +1,8 @@
+{
+  "name": "typescript-chain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pathas1126/typescript-chain.git",
+  "author": "baripark <baripark@dailybutton.co.kr>",
+  "license": "MIT"
+}
