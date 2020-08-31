@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/pathas1126/typescript-chain.git",
   "author": "baripark <baripark@dailybutton.co.kr>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc && node index.js"
+  }
 }
